@@ -31,3 +31,8 @@
   <line x1="184" y1="112" x2="584" y2="112" stroke="#1C3A2E" stroke-width="1.5"/>
 
   <g font-family='"Cascadia Mono", "JetBrains Mono", Consolas, monospace' font-size="11" fill="#1C3A2E">
+    <text x="184" y="128" text-anchor="middle">6960</text>
+    <text x="264" y="128" text-anchor="middle">6333</text>
+    <text x="344" y="128" text-anchor="middle">5080</text>
+    <text x="424" y="128" text-anchor="middle">2575</text>
+    <text x="504" y="128" text-anchor="middle">1322</text>
