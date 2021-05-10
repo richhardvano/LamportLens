@@ -36,3 +36,9 @@
     <text x="344" y="128" text-anchor="middle">5080</text>
     <text x="424" y="128" text-anchor="middle">2575</text>
     <text x="504" y="128" text-anchor="middle">1322</text>
+    <text x="584" y="128" text-anchor="middle">696</text>
+  </g>
+
+  <g id="ll-marker">
+    <path d="M256 142 L272 142 L264 134 Z" fill="#1C3A2E"/>
+  </g>
