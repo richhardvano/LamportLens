@@ -10,6 +10,31 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Rule wording is being reviewed for the next patch.
 - A summary mode is being sketched for dashboards.
 
+## [5.0.0] - 2026-09-13
+
+### Added
+
+- `owners --top N` to rank holders by locked lamports in one call.
+
+## [4.2.0] - 2026-07-06
+
+### Added
+
+- A `--rate-step` alias for `--lamports-per-byte` so old runbooks keep working.
+
+## [3.0.0] - 2026-06-19
+
+### Changed
+
+- Bands are reported in a fixed order; totals stay per account.
+
+## [2.1.0] - 2026-06-17
+
+### Added
+
+- Per-band reclaimable totals in the JSON report.
+- A worked example for a token program snapshot in the docs.
+
 ## [1.0.0] - 2026-05-19
 
 ### Added
